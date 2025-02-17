@@ -1,5 +1,5 @@
 # Подсказка по GIT
-![git](desktop/lesson01/картинка git.png)
+![git](desktop/version_control/picture.png)
 ## Что такое GIT?
 Git - это консольная утилита, для отслеживания и ведения истории изменения файлов, в вашем проекте.
 
